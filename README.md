@@ -2,6 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/ee0d1e5f-f616-45ed-bee0-fd68836fa180)
 
+
 A simple and interactive map-based note-taking web application built with  JavaScript.
 Users can add, view, and manage notes by clicking on specific locations on the map.
 
