@@ -1,7 +1,6 @@
 # 🗺️ Note Map Application
 
-<!-- Uploading "EkranKayd2025-04-2811.02.27-ezgif.com-video-to-gif-converter.gif"... -->
-
+![Image](https://github.com/user-attachments/assets/ee0d1e5f-f616-45ed-bee0-fd68836fa180)
 
 A simple and interactive map-based note-taking web application built with  JavaScript.
 Users can add, view, and manage notes by clicking on specific locations on the map.
